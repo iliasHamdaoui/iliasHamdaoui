@@ -7,6 +7,6 @@
 - 🥅 Mission : Delivering high-quality software solutions 
 - 🧺 Technology stack: `ASP.NET Core`, `Blazor`, `C#`, `Angular`
 - 🔗 I’m on Linkedin : https://www.linkedin.com/in/ilias-hamdaoui/
-- 🤝 to know more about me : https://hamdaoui.com
+- 🤝 to know more about me : https://www.hamdaoui.com
 
 
