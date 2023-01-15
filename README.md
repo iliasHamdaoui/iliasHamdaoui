@@ -6,7 +6,8 @@
 - 🔬 I'm currently mainly focused on software architecture
 - 🥅 Mission : Delivering high-quality software solutions 
 - 🧺 Technology stack: `ASP.NET Core`, `Blazor`, `C#`, `Angular`
-- 🔗 I’m on Linkedin : https://www.linkedin.com/in/ilias-hamdaoui/
-- 🤝 to know more about me : https://www.hamdaoui.com/cv
+- 🔗 My Linkedin profile: https://www.linkedin.com/in/ilias-hamdaoui/
+- 🤝 to know more about my experience : https://www.hamdaoui.com/cv/
+- 📫 How to reach me: ilias@hamdaoui.com
 
 
